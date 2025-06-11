@@ -1,0 +1,10 @@
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\bin\Debug\CHIP8Launcher.exe.config
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\bin\Debug\CHIP8Launcher.exe
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\bin\Debug\CHIP8Launcher.pdb
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\obj\Debug\CHIP8Launcher.csproj.AssemblyReference.cache
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\obj\Debug\CHIP8Launcher.Form1.resources
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\obj\Debug\CHIP8Launcher.Properties.Resources.resources
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\obj\Debug\CHIP8Launcher.csproj.GenerateResource.cache
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\obj\Debug\CHIP8Launcher.csproj.CoreCompileInputs.cache
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\obj\Debug\CHIP8Launcher.exe
+C:\Users\balto\source\repos\CHIP8Launcher\CHIP8Launcher\obj\Debug\CHIP8Launcher.pdb
